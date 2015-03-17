@@ -1,3 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 A directory containing metadata about the history of the files is created. It's necessary so git recognizes the directory as a repository
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It permits to commit changes only on certain files 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Adding only the files corresponding to each logical change to the staging area before each commit
