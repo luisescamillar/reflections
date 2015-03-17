@@ -17,3 +17,8 @@ When taking a project into a new, experimental path. It wold be like creating a 
 How do the diagrams help you visualize the branch structure?
 
 They show at a glance what each branch shares and doesn't share
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Changes made to the files in each branch to merge are applied to a single set of files. In the diagram we can easily view where the changes diverge or merge.
+
