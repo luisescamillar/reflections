@@ -22,3 +22,7 @@ What is the result of merging two branches together? Why do we represent it in t
 
 Changes made to the files in each branch to merge are applied to a single set of files. In the diagram we can easily view where the changes diverge or merge.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging is good to avoid innecesarily having to manually do obvious tasks; it saves a lot of time
+
