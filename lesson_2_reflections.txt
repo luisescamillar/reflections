@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A directory containing metadata about the history of the files is created. It's necessary so git recognizes the directory as a repository
