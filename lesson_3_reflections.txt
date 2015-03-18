@@ -6,3 +6,7 @@ Why might you want to always pull changes manually rather than having Git automa
 
 I'm not sure about this one, but perhaps so I can keep my workspace stable while I work on it
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks allow you to copy a repository using only github, clones are for working locally and branches are for testing experimental features
+
